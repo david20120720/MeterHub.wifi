@@ -1,0 +1,3 @@
+[submodule "drivers\\network\\COMPONENT_WIFI_ISM43362"]
+	path = drivers\\network\\COMPONENT_WIFI_ISM43362
+	url = https://github.com/ARMmbed/wifi-ism43362
